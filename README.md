@@ -1,2 +1,0 @@
-# Coding-solution
-Coding solution
